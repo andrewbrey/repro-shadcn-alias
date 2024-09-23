@@ -22,3 +22,5 @@ Steps taken:
   using _nearly_ the default value of of `@/lib/utils` _except_ that it did
   replace the `@` with `~` as if it simply read the alias prefix and nothing
   else from the value.
+
+![image](https://github.com/user-attachments/assets/ce504ab1-b1dd-4eac-8e60-3ebcc718cc77)
